@@ -1,0 +1,60 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_vstelmakh1_name": {
+            "value": null
+        },
+        "loadBalancers_LO1_name": {
+            "value": null
+        },
+        "virtualMachines_VM1_name": {
+            "value": null
+        },
+        "virtualMachines_VM2_name": {
+            "value": null
+        },
+        "availabilitySets_AVS_name": {
+            "value": null
+        },
+        "disks_VM2_DataDisk_0_name": {
+            "value": null
+        },
+        "virtualNetworks_DevOps_name": {
+            "value": null
+        },
+        "networkInterfaces_vm119_name": {
+            "value": null
+        },
+        "publicIPAddresses_LO1IP_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM2IP_name": {
+            "value": null
+        },
+        "serverfarms_ASP_TestGR_804c_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2135_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2284_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM1_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_TestGR_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2nsg774_name": {
+            "value": null
+        }
+    }
+}
